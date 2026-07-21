@@ -7,4 +7,6 @@
   :version "0.0.1"
   :serial t
   :components ((:file "package")
-               (:file "ti89-emu")))
+               (:file "ti89-emu")
+               (:file "memory")
+               (:file "processor")))
