@@ -9,3 +9,4 @@
                                 :element-type 'unsigned-byte
                                 :initial-element 0)))
   (:documentation "Allocates the amount of memory wanted."))
+
